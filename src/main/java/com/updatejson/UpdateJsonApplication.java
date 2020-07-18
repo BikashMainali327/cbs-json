@@ -106,12 +106,12 @@ public class UpdateJsonApplication {
 				"          \"expiry_date\": \"22/08/2050\"\r\n" + 
 				"        }\r\n" + 
 				"      ],\r\n" + 
-				"      \"account_number\": \"7899\",\r\n" + 
+				"      \"account_number\": \"1111111111111111111111111111111\",\r\n" + 
 				"      \"sol_id\": null,\r\n" + 
 				"      \"account_type\": \"\",\r\n" + 
 				"      \"account_status_type\": null,\r\n" + 
 				"      \"cy_code\": \"NPR\",\r\n" + 
-				"      \"account_name\": \"Bikash Mainali\",\r\n" + 
+				"      \"account_name\": \"old cbs account\",\r\n" + 
 				"      \"is_dormant\": null,\r\n" + 
 				"      \"is_blocked\": null,\r\n" + 
 				"      \"is_special\": null,\r\n" + 
@@ -131,9 +131,9 @@ public class UpdateJsonApplication {
 				"  \"addresses\": [\r\n" + 
 				"    {\r\n" + 
 				"      \"address\": \"Kathmandu\",\r\n" + 
-				"      \"district\": \"Makawanpur\",\r\n" + 
+				"      \"district\": \"permanent district cbs old\",\r\n" + 
 				"      \"country\": \"India\",\r\n" + 
-				"      \"contact\": \"2222222222222222222\",\r\n" + 
+				"      \"contact\": \"permanent contact cbs old\",\r\n" + 
 				"      \"city\": \"2\",\r\n" + 
 				"      \"province\": \"Province 2\",\r\n" + 
 				"      \"zone\": \"12562\",\r\n" + 
@@ -143,9 +143,9 @@ public class UpdateJsonApplication {
 				"    },\r\n" + 
 				"    {\r\n" + 
 				"      \"address\": \"9860662247\",\r\n" + 
-				"      \"district\": \"Jhapa\",\r\n" + 
+				"      \"district\": \"communication district cbs old\",\r\n" + 
 				"      \"country\": \"Nepal\",\r\n" + 
-				"      \"contact\": \"9860662247\",\r\n" + 
+				"      \"contact\": \"communication contact cbs old\",\r\n" + 
 				"      \"city\": \"2\",\r\n" + 
 				"      \"province\": \"Province 2\",\r\n" + 
 				"      \"zone\": \"Mechi\",\r\n" + 
@@ -155,9 +155,9 @@ public class UpdateJsonApplication {
 				"    },\r\n" + 
 				"    {\r\n" + 
 				"      \"address\": \"2\",\r\n" + 
-				"      \"district\": \"Solukhumbu\",\r\n" + 
+				"      \"district\": \"register district cbs old\",\r\n" + 
 				"      \"country\": \"Nepal\",\r\n" + 
-				"      \"contact\": \"223\",\r\n" + 
+				"      \"contact\": \"register contact cbs old\",\r\n" + 
 				"      \"city\": \"2\",\r\n" + 
 				"      \"province\": \"Province 2\",\r\n" + 
 				"      \"zone\": \"Solukhumbu\",\r\n" + 
@@ -190,7 +190,7 @@ public class UpdateJsonApplication {
 				"  ],\r\n" + 
 				"  \"relations\": [\r\n" + 
 				"    {\r\n" + 
-				"      \"name\": \"abc\",\r\n" + 
+				"      \"name\": \"Bikash P Mainali\",\r\n" + 
 				"      \"relation_type\": \"Spouse\"\r\n" + 
 				"    },\r\n" + 
 				"    {\r\n" + 
@@ -416,12 +416,12 @@ public class UpdateJsonApplication {
 				"          \"expiry_date\": \"22/08/2050\"\r\n" + 
 				"        }\r\n" + 
 				"      ],\r\n" + 
-				"      \"account_number\": \"7899\",\r\n" + 
+				"      \"account_number\": \"1111111111111111111111111111111\",\r\n" + 
 				"      \"sol_id\": null,\r\n" + 
 				"      \"account_type\": \"\",\r\n" + 
 				"      \"account_status_type\": null,\r\n" + 
 				"      \"cy_code\": \"NPR\",\r\n" + 
-				"      \"account_name\": \"Bbbbbbbbbbbbbbbbbbbbbbbbb\",\r\n" + 
+				"      \"account_name\": \"new cbs account\",\r\n" + 
 				"      \"is_dormant\": null,\r\n" + 
 				"      \"is_blocked\": null,\r\n" + 
 				"      \"is_special\": null,\r\n" + 
@@ -441,9 +441,9 @@ public class UpdateJsonApplication {
 				"  \"addresses\": [\r\n" + 
 				"    {\r\n" + 
 				"      \"address\": \"Kathmandu\",\r\n" + 
-				"      \"district\": \"Dhading\",\r\n" + 
+				"      \"district\": \"permanent district cbs new\",\r\n" + 
 				"      \"country\": \"Nepal\",\r\n" + 
-				"      \"contact\": \"111111111111111111111111111111111\",\r\n" + 
+				"      \"contact\": \"permanent contact cbs new\",\r\n" + 
 				"      \"city\": \"2\",\r\n" + 
 				"      \"province\": \"Province 2\",\r\n" + 
 				"      \"zone\": \"12562\",\r\n" + 
@@ -452,22 +452,22 @@ public class UpdateJsonApplication {
 				"      \"mn_vdc\": \" pokhara\"\r\n" + 
 				"    },\r\n" + 
 				"    {\r\n" + 
-				"      \"address\": \"9860662247\",\r\n" + 
-				"      \"district\": \"Jhapa\",\r\n" + 
+				"      \"address\": \"66666666666666666666\",\r\n" + 
+				"      \"district\": \"111111111111111111\",\r\n" + 
 				"      \"country\": \"Nepal\",\r\n" + 
-				"      \"contact\": \"9860662247\",\r\n" + 
+				"      \"contact\": \"33333333333333333333333333\",\r\n" + 
 				"      \"city\": \"2\",\r\n" + 
 				"      \"province\": \"Province 2\",\r\n" + 
 				"      \"zone\": \"Mechi\",\r\n" + 
 				"      \"address_type\": \"Communication\",\r\n" + 
 				"      \"ward_no\": \"2\",\r\n" + 
-				"      \"mn_vdc\": \"9860662247\"\r\n" + 
+				"      \"mn_vdc\": \"7777777777777\"\r\n" + 
 				"    },\r\n" + 
 				"    {\r\n" + 
 				"      \"address\": \"2\",\r\n" + 
-				"      \"district\": \"Solukhumbu\",\r\n" + 
+				"      \"district\": \"register district cbs new\",\r\n" + 
 				"      \"country\": \"Nepal\",\r\n" + 
-				"      \"contact\": \"9860662247\",\r\n" + 
+				"      \"contact\": \"register contact cbs new\",\r\n" + 
 				"      \"city\": \"2\",\r\n" + 
 				"      \"province\": \"Province 2\",\r\n" + 
 				"      \"zone\": \"Solukhumbu\",\r\n" + 
@@ -500,7 +500,7 @@ public class UpdateJsonApplication {
 				"  ],\r\n" + 
 				"  \"relations\": [\r\n" + 
 				"    {\r\n" + 
-				"      \"name\": \"abc\",\r\n" + 
+				"      \"name\": \"\",\r\n" + 
 				"      \"relation_type\": \"Spouse\"\r\n" + 
 				"    },\r\n" + 
 				"    {\r\n" + 
@@ -730,7 +730,7 @@ public class UpdateJsonApplication {
 				"      \"country\": \"Nepal\",\r\n" + 
 				"      \"zone\": \"Gandaki\",\r\n" + 
 				"      \"province\": \"111\",\r\n" + 
-				"      \"district\": \"Tanahu\",\r\n" + 
+				"      \"district\": \"...............................\",\r\n" + 
 				"      \"mn_vdc\": \"9860662247\",\r\n" + 
 				"      \"pinzip\": \"\",\r\n" + 
 				"      \"ward_number\": \"2\",\r\n" + 
@@ -743,7 +743,7 @@ public class UpdateJsonApplication {
 				"      \"longitude\": \"\",\r\n" + 
 				"      \"phone_no_country_code\": \"977\",\r\n" + 
 				"      \"phone_no_area_code\": \"01\",\r\n" + 
-				"      \"phone_no\": \"9860662247\",\r\n" + 
+				"      \"phone_no\": \"communication contact kyc\",\r\n" + 
 				"      \"telex_no_country_code\": \"\",\r\n" + 
 				"      \"telex_no_area_code\": \"\",\r\n" + 
 				"      \"telex_no\": \"\",\r\n" + 
@@ -766,7 +766,7 @@ public class UpdateJsonApplication {
 				"      \"country\": \"Nepal\",\r\n" + 
 				"      \"zone\": \"\",\r\n" + 
 				"      \"province\": \"2\",\r\n" + 
-				"      \"district\": \"\",\r\n" + 
+				"      \"district\": \"permanent district kyc\",\r\n" + 
 				"      \"mn_vdc\": \" pokhara\",\r\n" + 
 				"      \"pinzip\": \"\",\r\n" + 
 				"      \"ward_number\": \"2\",\r\n" + 
@@ -779,7 +779,7 @@ public class UpdateJsonApplication {
 				"      \"longitude\": \"\",\r\n" + 
 				"      \"phone_no_country_code\": \"977\",\r\n" + 
 				"      \"phone_no_area_code\": \"01\",\r\n" + 
-				"      \"phone_no\": \"9860662247\",\r\n" + 
+				"      \"phone_no\": \"permanent contact kyc\",\r\n" + 
 				"      \"telex_no_country_code\": \"\",\r\n" + 
 				"      \"telex_no_area_code\": \"\",\r\n" + 
 				"      \"telex_no\": \"\",\r\n" + 
@@ -802,7 +802,7 @@ public class UpdateJsonApplication {
 				"      \"country\": \"Nepal\",\r\n" + 
 				"      \"zone\": \"\",\r\n" + 
 				"      \"province\": \"\",\r\n" + 
-				"      \"district\": \"\",\r\n" + 
+				"      \"district\": \"adfafds\",\r\n" + 
 				"      \"mn_vdc\": \"2\",\r\n" + 
 				"      \"pinzip\": \"\",\r\n" + 
 				"      \"ward_number\": \"\",\r\n" + 
@@ -815,7 +815,7 @@ public class UpdateJsonApplication {
 				"      \"longitude\": \"\",\r\n" + 
 				"      \"phone_no_country_code\": \"977\",\r\n" + 
 				"      \"phone_no_area_code\": \"01\",\r\n" + 
-				"      \"phone_no\": \"9860662247\",\r\n" + 
+				"      \"phone_no\": \"\",\r\n" + 
 				"      \"telex_no_country_code\": \"\",\r\n" + 
 				"      \"telex_no_area_code\": \"\",\r\n" + 
 				"      \"telex_no\": \"\",\r\n" + 
@@ -1327,7 +1327,7 @@ public class UpdateJsonApplication {
 				"      \"primary_identification_document_type\": null,\r\n" + 
 				"      \"primary_identification_document_no\": null,\r\n" + 
 				"      \"country\": null,\r\n" + 
-				"      \"account_no\": \"00100200003485000012\",\r\n" + 
+				"      \"account_no\": \"account number kyc \",\r\n" + 
 				"      \"issuing_authority\": null,\r\n" + 
 				"      \"place_of_issue\": null,\r\n" + 
 				"      \"issue_date\": null,\r\n" + 
@@ -1669,7 +1669,7 @@ public class UpdateJsonApplication {
 				"      \"currency_of_account\": \"NPR\",\r\n" + 
 				"      \"customer_currency\": null,\r\n" + 
 				"      \"customer_pan\": null,\r\n" + 
-				"      \"account_no\": \"7899\",\r\n" + 
+				"      \"account_no\": \"1111111111111111111111111111111\",\r\n" + 
 				"      \"account_name\": \"\",\r\n" + 
 				"      \"account_short_name\": \"\",\r\n" + 
 				"      \"account_ownership\": \"\",\r\n" + 
@@ -1763,8 +1763,8 @@ public class UpdateJsonApplication {
 				"      \"currency_of_account\": \"NPR\",\r\n" + 
 				"      \"customer_currency\": null,\r\n" + 
 				"      \"customer_pan\": null,\r\n" + 
-				"      \"account_no\": \"00100200003485000013\",\r\n" + 
-				"      \"account_name\": \"Nex Account\",\r\n" + 
+				"      \"account_no\": \"\",\r\n" + 
+				"      \"account_name\": \"\",\r\n" + 
 				"      \"account_short_name\": \"\",\r\n" + 
 				"      \"account_ownership\": \"\",\r\n" + 
 				"      \"scheme_type\": \"\",\r\n" + 
@@ -1804,8 +1804,8 @@ public class UpdateJsonApplication {
 				"      \"currency_of_account\": \"NPR\",\r\n" + 
 				"      \"customer_currency\": null,\r\n" + 
 				"      \"customer_pan\": null,\r\n" + 
-				"      \"account_no\": \"00100200003485000012\",\r\n" + 
-				"      \"account_name\": \"sushil acharya\",\r\n" + 
+				"      \"account_no\": \"\",\r\n" + 
+				"      \"account_name\": \"\",\r\n" + 
 				"      \"account_short_name\": \"\",\r\n" + 
 				"      \"account_ownership\": \"\",\r\n" + 
 				"      \"scheme_type\": \"\",\r\n" + 
